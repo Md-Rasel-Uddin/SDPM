@@ -1,1 +1,10 @@
 joblib
+altair
+plotly.express
+transformers
+pandas
+numpy
+datetime
+joblib
+snscrape.modules.twitter
+pandas
