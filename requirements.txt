@@ -6,5 +6,5 @@ pandas
 numpy
 datetime
 joblib
-snscrape.modules.twitter
+snscrape
 pandas
