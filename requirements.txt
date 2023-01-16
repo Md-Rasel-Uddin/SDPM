@@ -10,4 +10,4 @@ joblib
 pandas
 tensorflow
 scikit-learn
-snscrape.modules.twitter
+snscrape
