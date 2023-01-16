@@ -10,3 +10,4 @@ snscrape
 pandas
 tensorflow
 scikit-learn
+snscrape.modules.twitter
