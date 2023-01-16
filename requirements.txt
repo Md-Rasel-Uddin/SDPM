@@ -1,3 +1,4 @@
+streamlit
 joblib
 altair
 plotly.express
@@ -9,4 +10,4 @@ joblib
 pandas
 tensorflow
 scikit-learn
-snscrape
+snscrape.modules.twitter
