@@ -6,7 +6,7 @@ pandas
 numpy
 datetime
 joblib
-snscrape
+
 pandas
 tensorflow
 scikit-learn
